@@ -1,8 +1,7 @@
 footer {
   text-align: center;
-  font-size: 15px;
+  font-size: 17px;
   color: rgba(0, 0, 0, 0.8);
-  padding-top: 10px;
 }
 h1 {
   text-align: center;
@@ -11,9 +10,8 @@ h1 {
 }
 .container {
   max-width: 600px;
-  margin: 60px auto;
   background: #fff8f7;
-  padding: 40px;
+  padding: 20px 40px;
   margin: 60px auto;
   box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.3);
   border-radius: 10px;
@@ -29,6 +27,7 @@ select {
   border-radius: 5px;
   font-size: 16px;
 }
+
 .city {
   display: flex;
   justify-content: space-between;
